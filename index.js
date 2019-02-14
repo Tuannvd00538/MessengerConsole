@@ -5,8 +5,8 @@ const me = '100009112376938';
 const wife = '100011405521683';
 
 const loginAccount = {
-    email: "tuanminpay",
-    password: "yeuvongocanh"
+    email: "xxx",
+    password: "xxx"
 };
 
 const rl = readline.createInterface({
